@@ -2,66 +2,69 @@ package org.projectx.studentinformationservice.domain;
 
 import java.util.Date;
 
-public class Student {
+public class  Student {
 
-	private String studentCode;
+    private String studentId;
+    private String firstName;
+    private String lastName;
+    private String middleName;
+    private Date dateOfBirth;
+    private String birthIdentificationId;
+    private String contact;
 
-	private String firstName;
+    public void setStudentId(String studentId) {
+        this.studentId = studentId;
+    }
 
-	private String lastName;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
 
-	private String middleName;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
 
-	private String familyName;
+    public void setMiddleName(String middleName) {
+        this.middleName = middleName;
+    }
 
-	private Date dateOfBirth;
+    public void setDateOfBirth(Date dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
 
-	public String getStudentCode() {
-		return studentCode;
-	}
+    public void setBirthIdentificationId(String birthIdentificationId) {
+        this.birthIdentificationId = birthIdentificationId;
+    }
 
-	public void setStudentCode(String studentCode) {
-		this.studentCode = studentCode;
-	}
+    public void setContact(String contact) {
+        this.contact = contact;
+    }
 
-	public String getFirstName() {
-		return firstName;
-	}
+    public String getStudentId() {
+        return studentId;
+    }
 
-	public void setFirstName(String firstName) {
-		this.firstName = firstName;
-	}
+    public String getFirstName() {
+        return firstName;
+    }
 
-	public String getLastName() {
-		return lastName;
-	}
+    public String getLastName() {
+        return lastName;
+    }
 
-	public void setLastName(String lastName) {
-		this.lastName = lastName;
-	}
+    public String getMiddleName() {
+        return middleName;
+    }
 
-	public String getMiddleName() {
-		return middleName;
-	}
+    public Date getDateOfBirth() {
+        return dateOfBirth;
+    }
 
-	public void setMiddleName(String middleName) {
-		this.middleName = middleName;
-	}
+    public String getBirthIdentificationId() {
+        return birthIdentificationId;
+    }
 
-	public String getFamilyName() {
-		return familyName;
-	}
-
-	public void setFamilyName(String familyName) {
-		this.familyName = familyName;
-	}
-
-	public Date getDateOfBirth() {
-		return dateOfBirth;
-	}
-
-	public void setDateOfBirth(Date dateOfBirth) {
-		this.dateOfBirth = dateOfBirth;
-	}
-
+    public String getContact() {
+        return contact;
+    }
 }
