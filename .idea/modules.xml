@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authentication-authorization-service/authentication-authorization-service.iml" filepath="$PROJECT_DIR$/authentication-authorization-service/authentication-authorization-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utility/common-utility.iml" filepath="$PROJECT_DIR$/common-utility/common-utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-service/event-service.iml" filepath="$PROJECT_DIR$/event-service/event-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-resource-service/human-resource-service.iml" filepath="$PROJECT_DIR$/human-resource-service/human-resource-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-service/inventory-service.iml" filepath="$PROJECT_DIR$/inventory-service/inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payroll-service/src/main/main.iml" filepath="$PROJECT_DIR$/payroll-service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-service/src/main/main1.iml" filepath="$PROJECT_DIR$/event-service/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authentication-authorization-service/src/main/main2.iml" filepath="$PROJECT_DIR$/authentication-authorization-service/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utility/src/main/main3.iml" filepath="$PROJECT_DIR$/common-utility/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/human-resource-service/src/main/main4.iml" filepath="$PROJECT_DIR$/human-resource-service/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-information-service/src/main/main5.iml" filepath="$PROJECT_DIR$/student-information-service/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-utility/org.project.iml" filepath="$PROJECT_DIR$/common-utility/org.project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payroll-service/payroll-service.iml" filepath="$PROJECT_DIR$/payroll-service/payroll-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-information-service/student-information-service.iml" filepath="$PROJECT_DIR$/student-information-service/student-information-service.iml" />
+    </modules>
+  </component>
+</project>
+
