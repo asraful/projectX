@@ -27,9 +27,7 @@ public class Teacher {
         this.lastName = lastName;
     }
 
-    public void setMiddleName(String middleName) {
-        this.middleName = middleName;
-    }
+    public void setMiddleName(String middleName) {this.middleName = middleName;}
 
     public void setDateOfBirth(String dateOfBirth) {
         this.dateOfBirth = dateOfBirth;
