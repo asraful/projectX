@@ -1,5 +1,7 @@
 package org.projectx.studentinformationservice.service;
 
+import org.projectx.studentinformationservice.domain.Course;
+
 /**
  * Created by Asraful on 11/1/2014.
  */

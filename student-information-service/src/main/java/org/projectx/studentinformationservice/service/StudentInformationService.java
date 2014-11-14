@@ -1,6 +1,8 @@
 package org.projectx.studentinformationservice.service;
 
 
+import org.projectx.studentinformationservice.domain.Student;
+
 import java.util.List;
 
 /**

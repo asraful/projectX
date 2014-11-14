@@ -2,7 +2,8 @@ package org.projectx.studentinformationservice.domain;
 
 import java.util.Date;
 
-public class  Student {
+
+public class Student {
 
     private String studentId;
     private String firstName;
@@ -11,6 +12,7 @@ public class  Student {
     private Date dateOfBirth;
     private String birthIdentificationId;
     private String contact;
+
 
     public void setStudentId(String studentId) {
         this.studentId = studentId;
